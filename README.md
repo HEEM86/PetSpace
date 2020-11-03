@@ -231,10 +231,15 @@ Jefry Romero
 <br>
 Ernest Wesson  
 
+Portfolio link: https://heem86.github.io/EW-Repsonsive-Site/
+
 [![GitHub](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/HEEM86)
 <br>
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ernest-wesson-b4183b5a/)
 
+<br>
+<br>
+https://docs.google.com/presentation/d/1Pj8mQpmKvNIhPOUJSjuTV0uO0Te4vFkxO5tv0mAkK7c/edit?usp=sharing
 
 
 
